@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1232807d-7e40-4c57-bfeb-07c63c05d982" name="Changes" comment="" />
+    <list default="true" id="1232807d-7e40-4c57-bfeb-07c63c05d982" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Kotlin POO I/Ejercicio_4_1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin POO I/Ejercicio_4_1/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin POO I/Ejercicio_4_1/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin POO I/Ejercicio_4_1/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin POO I/Ejercicio_4_1/.idea/libraries/junit_jupiter.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin POO I/Ejercicio_4_1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin POO I/Ejercicio_4_1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin POO I/Ejercicio_4_1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin POO I/Ejercicio_4_1/Ejercicio_4_1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,9 +24,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2b8UnSkFEIZ1qzM6fjknw8UGwsO" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,9 +36,10 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/usuariot/ReposGit/1_DAW_B_KOTLIN"
+    "last_opened_file_path": "C:/Users/usuariot/ReposGit/DAW_B_KOTLIN"
   }
 }]]></component>
   <component name="SharedIndexes">
