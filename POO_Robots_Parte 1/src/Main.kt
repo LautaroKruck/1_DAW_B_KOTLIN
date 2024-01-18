@@ -30,17 +30,21 @@ class Persona () {
             require(value.trim().isNotEmpty()) { "El nombre no puede estar vacío." }
             field = value
         }
-    var imc: Any = 0.0
-        get() = obtenerImc()
-        private set(value) {
-            field = value
-        }
+
+    private var imc: Double = calcImc()
+
     constructor(nombre: String, peso: Double, altura: Double): this(peso, altura) {
         this.nombre = nombre
     }
+
     fun obtenerImc(): String {
-        return "%.2f".format(this.peso / (this.altura * this.altura))
+        return "%.2f".format(this.imc)
     }
+
+    fun calcImc() {
+        this.imc = this.peso / (this.altura * this.altura)
+    }
+
     fun mostrarDesc() {
         println("${this.nombre} con peso ${this.peso} KG y altura ${this.altura} m teien un IMC de ${obtenerImc()}" )
     }
