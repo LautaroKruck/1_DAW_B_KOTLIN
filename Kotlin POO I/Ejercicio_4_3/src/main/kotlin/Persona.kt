@@ -10,7 +10,7 @@ import kotlin.math.roundToInt
  * @property imc Índice de Masa Corporal (IMC) de la persona.
  * @constructor Crea una instancia de Persona con peso y altura especificados.
  */
-class Persona(peso: Double, altura: Double) {
+class Persona1(peso: Double, altura: Double) {
 
     /**
      * En Kotlin, un companion object es un objeto que está vinculado a una clase y tiene acceso a sus miembros,

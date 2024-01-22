@@ -4,22 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1232807d-7e40-4c57-bfeb-07c63c05d982" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Kotlin POO I/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin POO I/.idea/Kotlin POO I.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin POO I/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin POO I/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin POO I/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="1232807d-7e40-4c57-bfeb-07c63c05d982" name="Changes" comment="ejer 3">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin POO I/Ejercicio_4_1/src/Rectangulo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin POO I/Ejercicio_4_2/src/Persona.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/1_DAW_B_KOTLIN.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/1_DAW_B_KOTLIN.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Kotlin POO I/Ejercicio_4_1/src/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin POO I/Ejercicio_4_1/src/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kotlin POO I/Ejercicio_4_2/POO_Robots_Parte 1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin POO I/Ejercicio_4_2/Ejercicio_4_2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kotlin POO I/Ejercicio_4_2/test/MainKtTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kotlin POO I/Ejercicio_4_2/src/2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin POO I/Ejercicio_4_2/src/2.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kotlin POO I/Ejercicio_4_2/src/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin POO I/Ejercicio_4_2/src/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -28,12 +35,16 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2b8UnSkFEIZ1qzM6fjknw8UGwsO" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -41,9 +52,9 @@
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/usuariot/ReposGit/DAW_B_KOTLIN/Kotlin POO I",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
@@ -73,6 +84,20 @@
       <option name="presentableId" value="Default" />
       <updated>1705596366386</updated>
     </task>
+    <task id="LOCAL-00001" summary="ejer 3">
+      <option name="closed" value="true" />
+      <created>1705942514305</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705942514305</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="ejer 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="ejer 3" />
   </component>
 </project>

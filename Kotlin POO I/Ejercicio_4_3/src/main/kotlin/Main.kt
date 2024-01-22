@@ -4,7 +4,7 @@
  */
 fun main(){
     // Crear una instancia de Persona con peso y altura especificados.
-    val persona1 = Persona(90.55, 1.93)
+    val persona1 = Persona1(90.55, 1.93)
 
     println("*******************************************")
     // Modificar el nombre y mostrar la descripción de la persona.
