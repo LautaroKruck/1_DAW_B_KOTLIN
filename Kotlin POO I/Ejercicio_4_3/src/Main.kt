@@ -14,11 +14,11 @@ fun main(){
     println(persona1.toString())
 
     // Modificar el peso y mostrar la descripción de la persona.
-    persona1.peso = 84.5
+    persona1.peso = 57.7
     persona1.mostrarDesc()
 
     // Modificar la altura y mostrar la descripción de la persona.
-    persona1.altura = 1.81
+    persona1.altura = 1.67
     persona1.mostrarDesc()
 
     // Crear una instancia de Persona con nombre, peso y altura especificados.
