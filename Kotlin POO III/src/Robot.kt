@@ -38,10 +38,3 @@ class Robot(private val nombre: String) {
         println("$nombre está en ($posX, $posY) ${obtenerDireccion()}.")
     }
 }
-
-enum class Direccion {
-    POSITIVEX,
-    NEGATIVEX,
-    POSITIVEY,
-    NEGATIVEY
-}
