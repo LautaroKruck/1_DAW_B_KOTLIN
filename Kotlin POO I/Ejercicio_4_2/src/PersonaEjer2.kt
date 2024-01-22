@@ -1,4 +1,4 @@
-class Persona () {
+class PersonaEjer2 () {
     var peso: Double = 0.0
         get() = field
         set(value) {

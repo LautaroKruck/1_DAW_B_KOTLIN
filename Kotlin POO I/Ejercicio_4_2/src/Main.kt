@@ -1,8 +1,8 @@
 fun main() {
 
-    var persona1: Persona(90.55, 1.93)
-    val persona2: Persona("Marta", 61.88, 1.69)
-    val persona2: Persona("David", altura = 1.65, peso = 69.50)
+    var persona1: PersonaEjer2(90.55, 1.93)
+    val persona2: PersonaEjer2("Marta", 61.88, 1.69)
+    val persona2: PersonaEjer2("David", altura = 1.65, peso = 69.50)
 
     persona1.nombre = "Diego"
 

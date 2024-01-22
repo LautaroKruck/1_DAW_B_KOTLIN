@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1232807d-7e40-4c57-bfeb-07c63c05d982" name="Changes" comment="src mejorados">
-      <change afterPath="$PROJECT_DIR$/Kotlin POO III/src/Direccion.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kotlin POO III/src/Robot.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin POO III/src/Robot.kt" afterDir="false" />
+    <list default="true" id="1232807d-7e40-4c57-bfeb-07c63c05d982" name="Changes" comment="commit de robot pt 1">
+      <change beforePath="$PROJECT_DIR$/Kotlin POO I/Ejercicio_4_2/src/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin POO I/Ejercicio_4_2/src/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kotlin POO I/Ejercicio_4_2/src/Persona.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin POO I/Ejercicio_4_2/src/PersonaEjer2.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kotlin POO I/Ejercicio_4_3/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin POO I/Ejercicio_4_3/src/main/kotlin/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kotlin POO I/Ejercicio_4_3/src/main/kotlin/Persona.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin POO I/Ejercicio_4_3/src/main/kotlin/PersonaEjer3.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,13 +96,22 @@
       <option name="project" value="LOCAL" />
       <updated>1705943321901</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit de robot pt 1">
+      <option name="closed" value="true" />
+      <created>1705943603269</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1705943603269</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="ejer 3" />
     <MESSAGE value="src mejorados" />
-    <option name="LAST_COMMIT_MESSAGE" value="src mejorados" />
+    <MESSAGE value="commit de robot pt 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit de robot pt 1" />
   </component>
 </project>
