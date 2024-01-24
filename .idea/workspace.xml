@@ -5,33 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1232807d-7e40-4c57-bfeb-07c63c05d982" name="Changes" comment="commit de robot pt 1">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_jupiter.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin POO I/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin POO I/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin POO I/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin POO I/.idea/libraries/junit_jupiter.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin POO I/Ejercicio_4_3/Enunciado ej 3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin POO I/Ejercicio_4_4/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin POO I/Ejercicio_4_4/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin POO I/Ejercicio_4_4/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin POO I/Ejercicio_4_4/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin POO I/Ejercicio_4_4/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin POO I/Ejercicio_4_4/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin POO I/Ejercicio_4_4/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin POO I/Ejercicio_4_4/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin POO I/Ejercicio_4_4/Ejercicio_4_3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin POO I/Ejercicio_4_4/Enunciado ej 4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin POO I/Ejercicio_4_4/src/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin POO I/out/production/Kotlin POO I/META-INF/Kotlin POO I.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/1_DAW_B_KOTLIN.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/1_DAW_B_KOTLIN.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kotlin POO I/.idea/Kotlin POO I.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin POO I/.idea/Kotlin POO I.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Kotlin POO I/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin POO I/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kotlin POO I/Ejercicio_4_2/src/2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin POO I/Ejercicio_4_2/src/2.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kotlin POO I/Ejercicio_4_3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin POO I/Ejercicio_4_3/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kotlin POO I/Ejercicio_4_3/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin POO I/Ejercicio_4_3/src/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kotlin POO I/Ejercicio_4_3/src/main/kotlin/PersonaEjer3.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin POO I/Ejercicio_4_3/src/PersonaEjer3.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kotlin POO I/Ejercicio_4_3/src/main/kotlin/TipoImc.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin POO I/Ejercicio_4_3/src/TipoImc.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +48,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/usuariot/ReposGit/DAW_B_KOTLIN/Kotlin POO I",
+    "last_opened_file_path": "C:/Users/lauta/OneDrive/Documentos/REPOSITORIOS/1_DAW_B_KOTLIN",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -93,9 +67,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-20.0.2-corretto-20.0.2.1-4caba194b151-5bc9ecd2" />
         <option value="jdk-21.0.1-openjdk-21.0.1-4caba194b151-23eed401" />
-        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+        <option value="jdk-21.0.1-openjdk-21.0.1-f644763e9732-f98dd351" />
       </set>
     </attachedChunks>
   </component>
