@@ -1,11 +1,17 @@
 class Coche(
-    private val marca: String,
-    private val modelo: String,
+    marca: String,
+    modelo: String,
     private var color: String?,
     private var numCaballos: Int,
     private var numPuertas: Int,
     private var matricula: String
 ) {
+    private val marca: String = marca
+        get() = field?.firstCharUpperCase()
+
+    private val modelo: String = modelo
+        get() = field?.firstCharUpperCase()
+
     init {
         require(marca.isNotBlank() && modelo.isNotBlank()) { "Marca y modelo no pueden ser blancos ni nulos" }
         require(color != null) { "Color no puede ser nulo" }
@@ -20,14 +26,6 @@ class Coche(
 
     fun setColor(color: String) {
         this.color = color
-    }
-
-    fun getMarca(): String {
-        return marca
-    }
-
-    fun getModelo(): String {
-        return modelo.capitalize()
     }
 
     fun getNumCaballos(): Int {

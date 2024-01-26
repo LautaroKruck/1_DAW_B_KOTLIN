@@ -40,7 +40,7 @@ fun main() {
 
     // Intentar modificar con color nulo (ahora se permite porque color es String?)
     try {
-        coche1.setColor(null) // Esto debería ejecutarse sin problemas
+        coche1.setColor("") // Esto debería ejecutarse sin problemas
     } catch (e: IllegalArgumentException) {
         println("Error: ${e.message}")
     }
