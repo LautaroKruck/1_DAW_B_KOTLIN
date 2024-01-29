@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="befc7c0e-5956-4fee-8c77-9938beb630ea" name="Changes" comment="EJERCICIOS POO I mains terminados">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Kotlin POO I.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/junit_jupiter.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_4_1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_4_1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_4_1/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_4_1/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_4_1/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_4_1/.idea/libraries/junit_jupiter.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_4_1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_4_1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_4_1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_4_1/Ejercicio_4_1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_4_1/src/Main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_4_1/src/Rectangulo.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_4_2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_4_2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_4_2/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_4_2/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_4_2/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_4_2/.idea/libraries/junit_jupiter.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_4_2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_4_2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_4_2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_4_2/Ejercicio_4_2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_4_2/src/2.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_4_2/src/Main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_4_2/src/PersonaEjer2.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_4_3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_4_3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_4_3/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_4_3/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_4_3/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_4_3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_4_3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_4_3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_4_3/Ejercicio_4_3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_4_3/Enunciado ej 3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_4_3/src/Main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_4_3/src/PersonaEjer3.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_4_3/src/TipoImc.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_4_4/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_4_4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_4_4/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_4_4/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_4_4/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_4_4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_4_4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_4_4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_4_4/Ejercicio_4_3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_4_4/Enunciado ej 4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_4_4/src/Coche.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_4_4/src/Main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_4_5/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_4_5/.idea/Ejercicio_4_5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_4_5/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_4_5/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_4_5/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_4_5/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_4_5/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_4_5/Ejercicio_4_5/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_4_5/Ejercicio_4_5/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_4_5/Ejercicio_4_5/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_4_5/Ejercicio_4_5/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_4_5/Ejercicio_4_5/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_4_5/Ejercicio_4_5/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_4_5/Ejercicio_4_5/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_4_5/Ejercicio_4_5/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_4_5/Ejercicio_4_5/Ejercicio_4_5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_4_5/Ejercicio_4_5/src/Main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_4_5/Ejercicio_4_5/src/Tiempo.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin POO III/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin POO III/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin POO III/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin POO III/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin POO III/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin POO III/.idea/libraries/junit_jupiter.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin POO III/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin POO III/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin POO III/Kotlin POO III.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin POO III/src/Direccion.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin POO III/src/Main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin POO III/src/Robot.kt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2bJYHEAh28XK2LOXzsbWvhNicJZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Kotlin.MainKt.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/usuariot/ReposGit/DAW_B_KOTLIN",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.rainbow.brackets.disable.when"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\usuariot\ReposGit\DAW_B_KOTLIN\Kotlin POO I\Ejercicio_4_4" />
+      <recent name="C:\Users\usuariot\ReposGit\DAW_B_KOTLIN\Kotlin POO I\Ejercicio_4_3\src" />
+      <recent name="C:\Users\usuariot\ReposGit\DAW_B_KOTLIN\Kotlin POO I" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\usuariot\ReposGit\DAW_B_KOTLIN\Kotlin POO I\Ejercicio_4_3" />
+      <recent name="C:\Users\usuariot\ReposGit\DAW_B_KOTLIN\Kotlin POO I\Ejercicio_4_4\src" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-20.0.2-corretto-20.0.2.1-4caba194b151-5bc9ecd2" />
+        <option value="jdk-21.0.1-openjdk-21.0.1-4caba194b151-23eed401" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="befc7c0e-5956-4fee-8c77-9938beb630ea" name="Changes" comment="" />
+      <created>1705934558342</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705934558342</updated>
+    </task>
+    <task id="LOCAL-00001" summary="arreglo archivos">
+      <option name="closed" value="true" />
+      <created>1705948734665</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705948734665</updated>
+    </task>
+    <task id="LOCAL-00002" summary="arreglo archivos">
+      <option name="closed" value="true" />
+      <created>1705948788656</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1705948788656</updated>
+    </task>
+    <task id="LOCAL-00003" summary="arreglo archivos">
+      <option name="closed" value="true" />
+      <created>1706119385898</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706119385898</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ejer 5 empezado">
+      <option name="closed" value="true" />
+      <created>1706298896360</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1706298896360</updated>
+    </task>
+    <task id="LOCAL-00005" summary="ejer 4 arreglado">
+      <option name="closed" value="true" />
+      <created>1706300093171</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1706300093171</updated>
+    </task>
+    <task id="LOCAL-00006" summary="EJERCICIOS POO I mains terminados">
+      <option name="closed" value="true" />
+      <created>1706547258287</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1706547258288</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="arreglo archivos" />
+    <MESSAGE value="ejer 5 empezado" />
+    <MESSAGE value="ejer 4 arreglado" />
+    <MESSAGE value="EJERCICIOS POO I mains terminados" />
+    <option name="LAST_COMMIT_MESSAGE" value="EJERCICIOS POO I mains terminados" />
+  </component>
+</project>
