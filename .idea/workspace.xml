@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1232807d-7e40-4c57-bfeb-07c63c05d982" name="Changes" comment="commit de robot pt 1">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1232807d-7e40-4c57-bfeb-07c63c05d982" name="Changes" comment="hasta ej 5" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +46,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/usuariot/ReposGit/LautaroKruck---Cafeteras-y-tazas",
+    "last_opened_file_path": "C:/Users/usuariot/ReposGit/DAW_B_KOTLIN",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -67,8 +65,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
+        <option value="jdk-20.0.2-corretto-20.0.2.1-4caba194b151-5bc9ecd2" />
         <option value="jdk-21.0.1-openjdk-21.0.1-4caba194b151-23eed401" />
-        <option value="jdk-21.0.1-openjdk-21.0.1-f644763e9732-f98dd351" />
       </set>
     </attachedChunks>
   </component>
@@ -113,7 +111,23 @@
       <option name="project" value="LOCAL" />
       <updated>1705944620658</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="hasta ej 5">
+      <option name="closed" value="true" />
+      <created>1706548410756</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1706548410756</updated>
+    </task>
+    <task id="LOCAL-00006" summary="hasta ej 5">
+      <option name="closed" value="true" />
+      <created>1706548734827</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1706548734827</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -121,6 +135,7 @@
     <MESSAGE value="ejer 3" />
     <MESSAGE value="src mejorados" />
     <MESSAGE value="commit de robot pt 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit de robot pt 1" />
+    <MESSAGE value="hasta ej 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="hasta ej 5" />
   </component>
 </project>
