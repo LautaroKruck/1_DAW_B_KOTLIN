@@ -4,43 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1232807d-7e40-4c57-bfeb-07c63c05d982" name="Changes" comment="cafe">
-      <change afterPath="$PROJECT_DIR$/Kotlin_POO_II_Lautaro_Kruck/Ejercicio_4_6_/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin_POO_II_Lautaro_Kruck/Ejercicio_4_6_/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin_POO_II_Lautaro_Kruck/Ejercicio_4_6_/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin_POO_II_Lautaro_Kruck/Ejercicio_4_6_/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin_POO_II_Lautaro_Kruck/Ejercicio_4_6_/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin_POO_II_Lautaro_Kruck/Ejercicio_4_6_/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin_POO_II_Lautaro_Kruck/Ejercicio_4_6_/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin_POO_II_Lautaro_Kruck/Ejercicio_4_6_/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin_POO_II_Lautaro_Kruck/Ejercicio_4_6_/Ejercicio_4_6_.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin_POO_II_Lautaro_Kruck/Ejercicio_4_6_/src/Cliente.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin_POO_II_Lautaro_Kruck/Ejercicio_4_6_/src/Compra.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin_POO_II_Lautaro_Kruck/Ejercicio_4_6_/src/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin_POO_II_Lautaro_Kruck/Ejercicio_4_7_/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin_POO_II_Lautaro_Kruck/Ejercicio_4_7_/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin_POO_II_Lautaro_Kruck/Ejercicio_4_7_/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin_POO_II_Lautaro_Kruck/Ejercicio_4_7_/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin_POO_II_Lautaro_Kruck/Ejercicio_4_7_/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin_POO_II_Lautaro_Kruck/Ejercicio_4_7_/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin_POO_II_Lautaro_Kruck/Ejercicio_4_7_/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin_POO_II_Lautaro_Kruck/Ejercicio_4_7_/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin_POO_II_Lautaro_Kruck/Ejercicio_4_7_/Ejercicio_4_7_.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin_POO_II_Lautaro_Kruck/Ejercicio_4_7_/src/Cuenta.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin_POO_II_Lautaro_Kruck/Ejercicio_4_7_/src/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin_POO_II_Lautaro_Kruck/Ejercicio_4_7_/src/Persona.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin_POO_II_Lautaro_Kruck/Ejercicio_4_8_/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin_POO_II_Lautaro_Kruck/Ejercicio_4_8_/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin_POO_II_Lautaro_Kruck/Ejercicio_4_8_/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin_POO_II_Lautaro_Kruck/Ejercicio_4_8_/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin_POO_II_Lautaro_Kruck/Ejercicio_4_8_/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin_POO_II_Lautaro_Kruck/Ejercicio_4_8_/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin_POO_II_Lautaro_Kruck/Ejercicio_4_8_/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin_POO_II_Lautaro_Kruck/Ejercicio_4_8_/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin_POO_II_Lautaro_Kruck/Ejercicio_4_8_/Ejercicio_4_8_.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin_POO_II_Lautaro_Kruck/Ejercicio_4_8_/src/ConjuntoLibros.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin_POO_II_Lautaro_Kruck/Ejercicio_4_8_/src/Libro.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin_POO_II_Lautaro_Kruck/Ejercicio_4_8_/src/Main.kt" afterDir="false" />
+    <list default="true" id="1232807d-7e40-4c57-bfeb-07c63c05d982" name="Changes" comment="ejercicios poo 2">
+      <change afterPath="$PROJECT_DIR$/juego_escapada/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juego_escapada/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juego_escapada/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juego_escapada/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juego_escapada/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juego_escapada/.idea/libraries/junit_jupiter.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juego_escapada/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juego_escapada/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juego_escapada/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juego_escapada/src/main/kotlin/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juego_escapada/src/test/kotlin/HabitacionTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juego_escapada/untitled1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juego_habitacion - Acceso directo (2).lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juego_habitacion - Acceso directo.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juego_habitacion/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juego_habitacion/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juego_habitacion/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juego_habitacion/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juego_habitacion/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juego_habitacion/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juego_habitacion/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juego_habitacion/src/main/kotlin/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juego_habitacion/untitled1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +74,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/usuariot/ReposGit/DAW_B_KOTLIN/Kotlin_POO_II_Lautaro_Kruck",
+    "last_opened_file_path": "C:/Users/usuariot/ReposGit/DAW_B_KOTLIN/juego_escapada",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -193,7 +180,23 @@
       <option name="project" value="LOCAL" />
       <updated>1706549250386</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="ejercicios poo 2">
+      <option name="closed" value="true" />
+      <created>1706553905358</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1706553905358</updated>
+    </task>
+    <task id="LOCAL-00011" summary="ejercicios poo 2">
+      <option name="closed" value="true" />
+      <created>1706553915232</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1706553915232</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -204,6 +207,7 @@
     <MESSAGE value="hasta ej 5" />
     <MESSAGE value="a" />
     <MESSAGE value="cafe" />
-    <option name="LAST_COMMIT_MESSAGE" value="cafe" />
+    <MESSAGE value="ejercicios poo 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="ejercicios poo 2" />
   </component>
 </project>
