@@ -7,7 +7,7 @@ class HabitacionTest {
     @Test
     fun moverIzquierda() {
         val habitacion = Habitacion(10, 10)
-
+        habitacion.dibujarTablero()
         assertEquals('1', habitacion.miraIzquierda())
     }
 

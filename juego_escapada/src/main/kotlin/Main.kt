@@ -47,7 +47,7 @@ class Habitacion (val ancho: Int, val alto: Int) {
 
     fun moverIzquierda(): Pair<Pair<Int, Int>, Pair<Int, Int>> {
         val posAnterior = Pair(posicionX, posicionY)
-        if (posicionX > 0 && tablero[posicionY][posicionX - 1] != 'O') {
+        if (posicionX > 0 && tablero[posicionY][posicionX - 1] != 'O' && tablero[posicionY][posicionX - 1] != 'X') {
             posicionX--
         }
         return posAnterior to Pair(posicionX, posicionY)
@@ -55,7 +55,7 @@ class Habitacion (val ancho: Int, val alto: Int) {
 
     fun moverDerecha(): Pair<Pair<Int, Int>, Pair<Int, Int>> {
         val posAnterior = Pair(posicionX, posicionY)
-        if (posicionX < ancho - 2 && tablero[posicionY][posicionX + 1] != 'O' && tablero[posicionY][posicionX + 2] != 'O') {
+        if (posicionX < ancho - 2 && tablero[posicionY][posicionX + 1] != 'O' && tablero[posicionY][posicionX + 1] != 'X') {
             posicionX += 1
         }
         return posAnterior to Pair(posicionX, posicionY)
@@ -63,7 +63,7 @@ class Habitacion (val ancho: Int, val alto: Int) {
 
     fun moverArriba(): Pair<Pair<Int, Int>, Pair<Int, Int>> {
         val posAnterior = Pair(posicionX, posicionY)
-        if (posicionY > 0 && tablero[posicionY - 1][posicionX] != 'O') {
+        if (posicionY > 0 && tablero[posicionY - 1][posicionX] != 'O' && tablero[posicionY - 1][posicionX] != 'X') {
             posicionY--
         }
         return posAnterior to Pair(posicionX, posicionY)
@@ -71,7 +71,7 @@ class Habitacion (val ancho: Int, val alto: Int) {
 
     fun moverAbajo(): Pair<Pair<Int, Int>, Pair<Int, Int>> {
         val posAnterior = Pair(posicionX, posicionY)
-        if (posicionY < alto - 1 && tablero[posicionY + 1][posicionX] != 'O') {
+        if (posicionY < alto - 1 && tablero[posicionY + 1][posicionX] != 'O' && tablero[posicionY + 1][posicionX] != 'X') {
             posicionY++
         }
         return posAnterior to Pair(posicionX, posicionY)
