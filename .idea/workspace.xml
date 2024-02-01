@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1232807d-7e40-4c57-bfeb-07c63c05d982" name="Changes" comment="entornos">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/juego_escapada/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/juego_escapada/src/main/kotlin/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/juego_escapada/src/test/kotlin/HabitacionTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/juego_escapada/src/test/kotlin/HabitacionTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/src/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

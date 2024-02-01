@@ -1,23 +1,48 @@
-open class Base(var p: Int) {
-    open fun incrementar(num: Int ) {
-        p += num
+open class Persona(val nombre: String, var edad: Int) {
+    var edad: Int = edad
+        set(value) {
+            requireEdad()
+            field = value
+        }
+    init {
+        require(nombre.isNotBlank()) {"El nombre no puede estar vacío"}
+    }
+    fun cumple(){
+        edad ++
+        println("$nombre tiene un año más ")
+    }
+    private fun requireEdad() {
+        require(edad >= 0) {"La eda no puede ser negativa"}
+    }
+    open fun actividad(): String {
+        return "$nombre está realizando una actividad"
+    }
+
+    override fun toString(): String {
+        return "Persona (nombre = $nombre, edad = $edad )"
     }
 }
 
-class Derivada(p: Int, var msj: String) : Base(p) {
-    override fun incrementar(num: Int) {
-        // p += (num * 2)
-        // super.incrementar(num * 2)
-        // ES LO MISMO
-        p += (num * 2)
+class Estudiante(nombre: String, edad: Int, val carrera: String) : Persona(nombre, edad ) {
+    override fun toString(): String {
+        return super.toString().dropLast(2).replace("Persona", "Estudiante") + ", carrera = $carrera )"
+    }
+    override fun actividad(): String {
+        return "$nombre está estudiando para un examen"
     }
 }
-
 
 fun main() {
-    val d = Derivada(10, "ESTO ES UN MENSAJE")
+    val yo = Persona("lautaro", 18)
+    println(yo)
+    yo.cumple()
+    println(yo)
+    yo.actividad()
 
-    d.incrementar(5)
+    val es = Estudiante("Pablo", 21, "Medicina" )
 
-    println("${d.p}, ${d.msj}")
+    println(es)
+    es.cumple()
+    println(es)
+    print(es.actividad())
 }
