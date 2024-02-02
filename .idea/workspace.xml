@@ -5,8 +5,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1232807d-7e40-4c57-bfeb-07c63c05d982" name="Changes" comment="entornos">
+      <change afterPath="$PROJECT_DIR$/Ejer_1_Sistema_vehiculo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejer_1_Sistema_vehiculo/src/Automovil.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejer_1_Sistema_vehiculo/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejer_1_Sistema_vehiculo/src/Motocicleta.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejer_1_Sistema_vehiculo/src/Vehiculo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejer_2_GestionAcademica/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejer_2_GestionAcademica/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejer_2_GestionAcademica/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejer_2_GestionAcademica/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejer_2_GestionAcademica/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejer_2_GestionAcademica/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejer_2_GestionAcademica/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejer_2_GestionAcademica/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejer_2_GestionAcademica/Ejer_2_GestionAcademica.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejer_2_GestionAcademica/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejer_3_Persona_Estudiante/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejer_3_Persona_Estudiante/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejer_3_Persona_Estudiante/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejer_3_Persona_Estudiante/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejer_3_Persona_Estudiante/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejer_3_Persona_Estudiante/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejer_3_Persona_Estudiante/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejer_3_Persona_Estudiante/ejercicio_clase.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/src/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Ejer_1_Sistema_vehiculo/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Ejer_1_Sistema_vehiculo/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ejer_1_Sistema_vehiculo/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.idea/kotlinc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ejer_1_Sistema_vehiculo/.idea/kotlinc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ejer_1_Sistema_vehiculo/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ejer_1_Sistema_vehiculo/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ejer_3_Persona_Estudiante/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ejer_1_Sistema_vehiculo/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/ejercicio_clase.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Ejer_1_Sistema_vehiculo/Ejer_1_Sistema_vehiculo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Ejer_3_Persona_Estudiante/src/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
