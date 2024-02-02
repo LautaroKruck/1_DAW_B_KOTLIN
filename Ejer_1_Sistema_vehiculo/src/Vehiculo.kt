@@ -1,4 +1,4 @@
-open class Vehiculo(val marca: String, val modelo: String, val capacidadCombustible: Int ){
+open class Vehiculo(private val marca: String, private val modelo: String, private val capacidadCombustible: Int ){
 
     open fun calcularAutonomia(): Int {
         return capacidadCombustible * 10

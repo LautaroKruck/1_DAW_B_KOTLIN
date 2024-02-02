@@ -7,6 +7,6 @@ fun main() {
     miauto.calcularAutonomia()
     val mimoto = Motocicleta("Honda", "deportiva", 1000, 1000)
     println(mimoto)
-    mimoto.calcularAutonomia()
+    println(mimoto.calcularAutonomia())
 
 }

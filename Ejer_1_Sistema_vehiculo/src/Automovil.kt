@@ -1,6 +1,6 @@
 
 class Automovil(val marca: String, val modelo: String, val capacidadCombustible: Int ) : Vehiculo(marca, modelo, capacidadCombustible) {
-     fun calcularAutonomia(): Int {
+     override fun calcularAutonomia(): Int {
         return capacidadCombustible * 100
     }
     override fun toString(): String {
