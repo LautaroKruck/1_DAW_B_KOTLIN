@@ -3,6 +3,9 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Ejercicio_1_Sistema-de-Vehiculos" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Ejercicio_2_Gestion-Academica" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Ejercicio_3_Persona-Estudiante" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Ejercicio_4_Gestion-Personal" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Kotlin_POO_IV_Lautaro_Kruck" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Kotlin_POO_I_Lautaro_Kruck/Ejercicio_4_1" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Kotlin_POO_I_Lautaro_Kruck/Ejercicio_4_2" vcs="Git" />
