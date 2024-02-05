@@ -5,6 +5,6 @@ open class Vehiculo(private val marca: String, private val modelo: String, priva
     }
 
     override fun toString(): String {
-        return "El vehiculo de marca $marca, modelo $modelo y capacidad de $capacidadCombustible"
+        return "El vehiculo de marca $marca, modelo $modelo y capacidad de $capacidadCombustible litros"
     }
 }

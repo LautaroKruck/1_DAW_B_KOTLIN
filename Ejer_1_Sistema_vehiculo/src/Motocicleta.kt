@@ -4,6 +4,6 @@ class Motocicleta(val marca: String, val modelo: String, val capacidadCombustibl
         return capacidadCombustible * 40
     }
     override fun toString(): String {
-        return "El vehiculo de marca $marca, modelo $modelo y capacidad de $capacidadCombustible"
+        return "La motocicleta de marca $marca, modelo $modelo, capacidad de $capacidadCombustible litros y de cilindrada $cilindrada"
     }
 }
