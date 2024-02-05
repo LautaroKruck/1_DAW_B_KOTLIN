@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1232807d-7e40-4c57-bfeb-07c63c05d982" name="Changes" comment="entornos">
-      <change beforePath="$PROJECT_DIR$/Ejer_2_GestionAcademica/src/Estudiante2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Ejer_2_GestionAcademica/src/Estudiante2.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejer_2_GestionAcademica/src/Persona2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Ejer_2_GestionAcademica/src/Persona2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejer_3_Persona_Estudiante/src/Estudiante.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejer_3_Persona_Estudiante/src/Persona.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejer_3_Persona_Estudiante/src/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Ejer_3_Persona_Estudiante/src/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +54,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/usuariot/ReposGit/DAW_B_KOTLIN/Ejer_2_GestionAcademica",
+    "last_opened_file_path": "C:/Users/usuariot/ReposGit/DAW_B_KOTLIN/Ejer_3_Persona_Estudiante",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
