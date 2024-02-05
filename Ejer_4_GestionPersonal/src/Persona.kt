@@ -1,13 +1,10 @@
 open class Persona(var nombre: String, var edad: Int) {
-    protected val id = ++ idCont
-    companion object {
-        var idCont = 0
+    fun celebrarCumple(): String {
+        edad++
+        return "Feliz cumpleaños $nombre! Ahora tienes $edad años."
     }
 
     override fun toString(): String {
-        return "Nombre: $nombre, Edad: $edad, Id: $id"
-    }
-    open fun mostrarRol() {
-        println("Soy una Persona")
+        return "Nombre: $nombre, Edad: $edad"
     }
 }
