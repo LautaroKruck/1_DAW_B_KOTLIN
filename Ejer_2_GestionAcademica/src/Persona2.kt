@@ -1,4 +1,4 @@
-open class Persona2(var nombre: String, var edad: Int) {
+open class Persona2(val nombre: String, var edad: Int) {
     protected val id = ++ idCont
     companion object {
         var idCont = 0
