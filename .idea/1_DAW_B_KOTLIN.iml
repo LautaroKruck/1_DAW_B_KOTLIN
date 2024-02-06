@@ -14,4 +14,7 @@
     <orderEntry type="library" name="KotlinJavaRuntime" level="project" />
     <orderEntry type="library" name="junit.jupiter" level="project" />
   </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="55990dd2-ad6f-4aa6-b03d-cd4977f20fde" />
+  </component>
 </module>
