@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1232807d-7e40-4c57-bfeb-07c63c05d982" name="Changes" comment="ultimos ejers ordendos">
-      <change beforePath="$PROJECT_DIR$/.idea/1_DAW_B_KOTLIN.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/1_DAW_B_KOTLIN.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicio_4_Gestion-Personal" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio_4_Gestion-Personal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicio_4_Gestion-Personal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio_4_Gestion-Personal/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="1232807d-7e40-4c57-bfeb-07c63c05d982" name="Changes" comment="ejer 5 repo">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +22,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Ejercicio_5_Articulos" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -40,38 +38,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;true&quot;,
-    &quot;Kotlin.MainKt.executor&quot;: &quot;Run&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/usuariot/ReposGit/DAW_B_KOTLIN&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Downloaded.Files.Path.Enabled": "true",
+    "Kotlin.MainKt.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/usuariot/ReposGit/DAW_B_KOTLIN",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\usuariot\ReposGit\DAW_B_KOTLIN\Kotlin POO I" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\usuariot\ReposGit\DAW_B_KOTLIN\Ejercicio_5_Articulos" />
       <recent name="C:\Users\usuariot\ReposGit\DAW_B_KOTLIN\Ejercicio_4_Gestion-Personal" />
       <recent name="C:\Users\usuariot\ReposGit\DAW_B_KOTLIN\Ejercicio_3_Persona-Estudiante" />
       <recent name="C:\Users\usuariot\ReposGit\DAW_B_KOTLIN\Ejercicio_2_Gestion-Academica" />
       <recent name="C:\Users\usuariot\ReposGit\DAW_B_KOTLIN\Ejercicio_1_Sistema-de-Vehiculos" />
-      <recent name="C:\Users\usuariot\ReposGit\DAW_B_KOTLIN\Kotlin_POO_II_Lautaro_Kruck" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -195,7 +194,23 @@
       <option name="project" value="LOCAL" />
       <updated>1707148048122</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="ejer 5 repo">
+      <option name="closed" value="true" />
+      <created>1707247958932</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1707247958932</updated>
+    </task>
+    <task id="LOCAL-00015" summary="ejer 5 repo">
+      <option name="closed" value="true" />
+      <created>1707247981504</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1707247981504</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -209,6 +224,7 @@
     <MESSAGE value="ejercicios poo 2" />
     <MESSAGE value="entornos" />
     <MESSAGE value="ultimos ejers ordendos" />
-    <option name="LAST_COMMIT_MESSAGE" value="ultimos ejers ordendos" />
+    <MESSAGE value="ejer 5 repo" />
+    <option name="LAST_COMMIT_MESSAGE" value="ejer 5 repo" />
   </component>
 </project>
