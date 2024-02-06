@@ -5,13 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1232807d-7e40-4c57-bfeb-07c63c05d982" name="Changes" comment="ejer 5 repo">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juego_escapada/.idea/sonarlint/issuestore/5/5/55d9d6ca5026e2707de6ce7123ac1a7b15b56e09" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juego_escapada/.idea/sonarlint/issuestore/7/b/7b5f541692814bc5831f0be18648e2b449d58ac1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juego_escapada/.idea/sonarlint/issuestore/d/8/d83ae3847b7d408136086cc5e9e95f5f7c126ed5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juego_escapada/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juego_escapada/.idea/sonarlint/securityhotspotstore/5/5/55d9d6ca5026e2707de6ce7123ac1a7b15b56e09" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juego_escapada/.idea/sonarlint/securityhotspotstore/7/b/7b5f541692814bc5831f0be18648e2b449d58ac1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juego_escapada/.idea/sonarlint/securityhotspotstore/d/8/d83ae3847b7d408136086cc5e9e95f5f7c126ed5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juego_escapada/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/9/79969975e8d473e45e409f8e3b967e1cdaebd9ae" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/9/79969975e8d473e45e409f8e3b967e1cdaebd9ae" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/juego_escapada/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/juego_escapada/src/main/kotlin/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/juego_escapada/untitled1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/juego_escapada/untitled1.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="repository" />
+    </option>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -22,7 +37,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Ejercicio_5_Articulos" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -53,7 +68,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/usuariot/ReposGit/DAW_B_KOTLIN",
+    "last_opened_file_path": "C:/Users/usuariot/ReposGit/DAW_B_KOTLIN/juego_escapada",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -210,7 +225,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707247981504</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="ejer 5 repo">
+      <option name="closed" value="true" />
+      <created>1707248086180</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1707248086180</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
