@@ -4,19 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1232807d-7e40-4c57-bfeb-07c63c05d982" name="Changes" comment="ejer 5 repo">
-      <change afterPath="$PROJECT_DIR$/juego_escapada/.idea/sonarlint/issuestore/5/5/55d9d6ca5026e2707de6ce7123ac1a7b15b56e09" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/juego_escapada/.idea/sonarlint/issuestore/7/b/7b5f541692814bc5831f0be18648e2b449d58ac1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/juego_escapada/.idea/sonarlint/issuestore/d/8/d83ae3847b7d408136086cc5e9e95f5f7c126ed5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/juego_escapada/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/juego_escapada/.idea/sonarlint/securityhotspotstore/5/5/55d9d6ca5026e2707de6ce7123ac1a7b15b56e09" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/juego_escapada/.idea/sonarlint/securityhotspotstore/7/b/7b5f541692814bc5831f0be18648e2b449d58ac1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/juego_escapada/.idea/sonarlint/securityhotspotstore/d/8/d83ae3847b7d408136086cc5e9e95f5f7c126ed5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/juego_escapada/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/9/79969975e8d473e45e409f8e3b967e1cdaebd9ae" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/9/79969975e8d473e45e409f8e3b967e1cdaebd9ae" afterDir="false" />
+    <list default="true" id="1232807d-7e40-4c57-bfeb-07c63c05d982" name="Changes" comment="ejer escapada">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/d/ad325f35f086617dcdbd2b466f79f729c7e04a36" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/8/c84dc83f5c0fb44506255c124614edeca2f23709" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/d/ad325f35f086617dcdbd2b466f79f729c7e04a36" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/8/c84dc83f5c0fb44506255c124614edeca2f23709" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/juego_escapada/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/juego_escapada/src/main/kotlin/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/juego_escapada/untitled1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/juego_escapada/untitled1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1dawb-restaurante-poo-LautaroKruck/Restautante_POO_LautaroKruck/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/1dawb-restaurante-poo-LautaroKruck/Restautante_POO_LautaroKruck/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1dawb-restaurante-poo-LautaroKruck/Restautante_POO_LautaroKruck/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/1dawb-restaurante-poo-LautaroKruck/Restautante_POO_LautaroKruck/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/juego_escapada/.idea/sonarlint/issuestore/7/b/7b5f541692814bc5831f0be18648e2b449d58ac1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/juego_escapada/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/juego_escapada/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/juego_escapada/.idea/sonarlint/securityhotspotstore/7/b/7b5f541692814bc5831f0be18648e2b449d58ac1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/juego_escapada/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/juego_escapada/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +39,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Kotlin_POO_I_Lautaro_Kruck/Ejercicio_4_3" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -64,7 +66,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "false",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
@@ -233,10 +235,28 @@
       <option name="project" value="LOCAL" />
       <updated>1707248086180</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="ejer escapada">
+      <option name="closed" value="true" />
+      <created>1707251228699</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1707251228699</updated>
+    </task>
+    <task id="LOCAL-00018" summary="ejer escapada">
+      <option name="closed" value="true" />
+      <created>1707251242162</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1707251242162</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="ejer 3" />
     <MESSAGE value="src mejorados" />
@@ -248,6 +268,7 @@
     <MESSAGE value="entornos" />
     <MESSAGE value="ultimos ejers ordendos" />
     <MESSAGE value="ejer 5 repo" />
-    <option name="LAST_COMMIT_MESSAGE" value="ejer 5 repo" />
+    <MESSAGE value="ejer escapada" />
+    <option name="LAST_COMMIT_MESSAGE" value="ejer escapada" />
   </component>
 </project>
