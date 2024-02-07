@@ -24,12 +24,14 @@ class HabitacionTest {
         habitacion.moverDerecha()
         habitacion.moverDerecha()
         habitacion.moverDerecha()
-        assertEquals('P', habitacion.miraDerecha())
+        assertEquals('1', habitacion.miraDerecha())
     }
 
     @Test
     fun moverArriba() {
         val habitacion = Habitacion(10, 10)
+        habitacion.moverDerecha()
+        habitacion.moverIzquierda()
         assertEquals('1', habitacion.miraArriba())
     }
 
@@ -77,5 +79,11 @@ class HabitacionTest {
         val habitacion = Habitacion(10, 10)
         habitacion.moverAbajo()
         assertEquals('X', habitacion.miraDerecha())
+    }
+
+    @Test
+    fun comprobarPuerta() {
+        val habitacion = Habitacion(10, 10)
+        assertEquals(true, habitacion.encontrarCaminoHastaPuerta())
     }
 }
