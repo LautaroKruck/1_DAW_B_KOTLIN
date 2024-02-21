@@ -1,30 +1,27 @@
+class Automovil(
+    marca: String,
+    modelo: String,
+    capacidadCombustible: Float,
+    combustibleActual: Float,
+    val esHibrido: Boolean
+) : Vehiculo(marca, modelo, capacidadCombustible, combustibleActual) {
+    companion object {
+        var condicionBritanica = false
 
-class Automovil(val marca: String, val modelo: String, val capacidadCombustible: Int, val combustbleActual: Int, val electrico: Boolean = false, val conBrit: Boolean = false) : Vehiculo(marca, modelo, capacidadCombustible, combustibleActual) {
-
-
-    fun esElectrico(): Boolean {
-        return electrico
+        fun cambiarCondicionBritanica(nuevaCondicion: Boolean) {
+            condicionBritanica = nuevaCondicion
+        }
     }
 
-    fun condicionBritania(): Boolean {
-        return conBrit
+    override fun calcularAutonomia(): Float {
+        val bonusHibrido = if (esHibrido) 5 else 0
+        return (combustibleActual * (KM_POR_LITRO + bonusHibrido))
     }
 
     fun realizaDerrape(): Float {
-
-    }
-
-    override fun obtenerInformacion(): String {
-        return "Cantidad de kilometros con combustible actual: ${combustibleActual * 10} km"
-    }
-
-    override fun calcularAutonomia(): Int {
-        return if (electrico)
-            (combustibleActual * 5).toInt()
-        else
-            (combustibleActual * 10).toInt()
-    }
-    override fun toString(): String {
-        return "El automovil de marca $marca, modelo $modelo y capacidad de $capacidadCombustible litros"
+        val gastoDerrape = if (esHibrido) 6.25f else 7.5f
+        combustibleActual -= gastoDerrape / KM_POR_LITRO
+        return combustibleActual
     }
 }
+
