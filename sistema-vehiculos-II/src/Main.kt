@@ -1,14 +1,35 @@
 fun main() {
-    val micoche = Automovil("Ferrari", "deportivo", 1000.00, )
+    println("***VEHICULO NUMERO 1***")
+    val micoche = Vehiculo("Ferrari", "deportivo", 100F, 70F)
+    println(micoche)
+    println(micoche.calcularAutonomia())
+    println(micoche.realizaViaje(300F))
+    println(micoche.realizaViaje(500F))
+    println(micoche.repostar(50F))
+    println(micoche.obtenerInformacion())
     println(micoche)
 
-
-    val miauto = Automovil("Ford", "familiar", 750)
+    println("***VEHICULO NUMERO 2***")
+    val miauto = Automovil("Ford", "familiar", 75F, 50F, false)
     println(miauto)
     println(miauto.calcularAutonomia())
+    println(miauto.realizaViaje(500F))
+    miauto.realizaDerrape()
+    println(miauto.repostar(0F))
+    miauto.cambiarCondicionBritanica(true)
+    println(miauto.obtenerInformacion())
+    println(miauto)
 
-    val mimoto = Motocicleta("Honda", "deportiva", 1000, 1000)
+    println("***VEHICULO NUMERO 3***")
+    val mimoto = Motocicleta("Honda", "deportiva", 50F, 45F, 1000)
     println(mimoto)
     println(mimoto.calcularAutonomia())
+    println(mimoto.realizaViaje(500F))
+    mimoto.realizaCaballito()
+    println(mimoto.repostar(0F))
+    mimoto.realizaCaballito()
+    println(mimoto.obtenerInformacion())
+    println(mimoto)
+
 
 }

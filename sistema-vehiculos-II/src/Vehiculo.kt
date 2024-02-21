@@ -4,10 +4,10 @@ open class Vehiculo(
     val capacidadCombustible: Float,
     var combustibleActual: Float
 ) {
-    var kilometrosActuales: Float = 0f
 
     companion object {
         const val KM_POR_LITRO = 10f
+        var kilometrosActuales: Float = 0f
     }
 
     open fun obtenerInformacion(): String = "Con el combustible actual, el vehículo puede recorrer ${calcularAutonomia()} km."
@@ -32,4 +32,9 @@ open class Vehiculo(
         combustibleActual += cantidadARepostar
         return cantidadARepostar
     }
+
+    override fun toString(): String {
+        return "El vehiculo de marca $marca, modelo $modelo, capacidad de $capacidadCombustible litros y cantidad de $combustibleActual litros, ha recorrido $kilometrosActuales km"
+    }
+
 }

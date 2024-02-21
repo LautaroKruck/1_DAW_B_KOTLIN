@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1232807d-7e40-4c57-bfeb-07c63c05d982" name="Changes" comment="organizacion" />
+    <list default="true" id="1232807d-7e40-4c57-bfeb-07c63c05d982" name="Changes" comment="organizacion">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sistema-vehiculos-II/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sistema-vehiculos-II/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sistema-vehiculos-II/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sistema-vehiculos-II/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sistema-vehiculos-II/src/Automovil.kt" beforeDir="false" afterPath="$PROJECT_DIR$/sistema-vehiculos-II/src/Automovil.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sistema-vehiculos-II/src/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/sistema-vehiculos-II/src/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sistema-vehiculos-II/src/Vehiculo.kt" beforeDir="false" afterPath="$PROJECT_DIR$/sistema-vehiculos-II/src/Vehiculo.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +63,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/lauta/OneDrive/Documentos/REPOSITORIOS",
+    "last_opened_file_path": "C:/Users/usuariot/ReposGit/DAW_B_KOTLIN/sistema-vehiculos-II",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -78,8 +86,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
+        <option value="jdk-20.0.2-corretto-20.0.2.1-4caba194b151-5bc9ecd2" />
         <option value="jdk-21.0.1-openjdk-21.0.1-4caba194b151-23eed401" />
-        <option value="jdk-21.0.1-openjdk-21.0.1-f644763e9732-f98dd351" />
       </set>
     </attachedChunks>
   </component>

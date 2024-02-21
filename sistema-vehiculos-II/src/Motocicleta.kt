@@ -7,6 +7,7 @@ class Motocicleta(
 ) : Vehiculo(marca, modelo, capacidadCombustible, combustibleActual) {
     companion object {
         const val KM_POR_LITRO_BASE = 20f
+        var kilometrosActuales: Float = 0f
     }
 
     override fun calcularAutonomia(): Float {
@@ -18,5 +19,9 @@ class Motocicleta(
         val gastoPorCaballito = 6.5f
         combustibleActual -= gastoPorCaballito / KM_POR_LITRO_BASE
         return combustibleActual
+    }
+
+    override fun toString(): String {
+        return "La motocicleta de marca $marca, modelo $modelo, capacidad de $capacidadCombustible litros, cantidad de $combustibleActual litros y cilindrada $cilindrada, ha recorrido $kilometrosActuales km"
     }
 }
