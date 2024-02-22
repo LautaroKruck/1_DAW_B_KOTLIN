@@ -1,10 +1,11 @@
 class Motocicleta(
+    nombre: String,
     marca: String,
     modelo: String,
     capacidadCombustible: Float,
     combustibleActual: Float,
     val cilindrada: Int
-) : Vehiculo(marca, modelo, capacidadCombustible, combustibleActual) {
+) : Vehiculo(nombre, marca, modelo, capacidadCombustible, combustibleActual) {
     companion object {
         const val KM_POR_LITRO_BASE = 20f
         var kilometrosActuales: Float = 0f

@@ -1,4 +1,5 @@
 open class Vehiculo(
+    val nombre: String,
     val marca: String,
     val modelo: String,
     val capacidadCombustible: Float,
@@ -27,10 +28,10 @@ open class Vehiculo(
         }
     }
 
-    open fun repostar(cantidad: Float): Float {
-        val cantidadARepostar = if (cantidad <= 0) capacidadCombustible - combustibleActual else minOf(cantidad, capacidadCombustible - combustibleActual)
-        combustibleActual += cantidadARepostar
-        return cantidadARepostar
+    open fun repostar(cantidad: Float = 0f): Float {
+        val cantidadRepostada = if (cantidad <= 0f) capacidadCombustible - combustibleActual else minOf(cantidad, capacidadCombustible - combustibleActual)
+        combustibleActual += cantidadRepostada
+        return cantidadRepostada
     }
 
     override fun toString(): String {

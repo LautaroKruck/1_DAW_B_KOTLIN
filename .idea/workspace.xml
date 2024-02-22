@@ -5,12 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1232807d-7e40-4c57-bfeb-07c63c05d982" name="Changes" comment="organizacion">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sistema-vehiculos-II/Enunciado02_Carrera.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sistema-vehiculos-II/src/Carrera.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sistema-vehiculos-II/src/ResultadoCarrera.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sistema-vehiculos-II/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sistema-vehiculos-II/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sistema-vehiculos-II/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sistema-vehiculos-II/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sistema-vehiculos-II/src/Automovil.kt" beforeDir="false" afterPath="$PROJECT_DIR$/sistema-vehiculos-II/src/Automovil.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sistema-vehiculos-II/src/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/sistema-vehiculos-II/src/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sistema-vehiculos-II/src/Motocicleta.kt" beforeDir="false" afterPath="$PROJECT_DIR$/sistema-vehiculos-II/src/Motocicleta.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sistema-vehiculos-II/src/Vehiculo.kt" beforeDir="false" afterPath="$PROJECT_DIR$/sistema-vehiculos-II/src/Vehiculo.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

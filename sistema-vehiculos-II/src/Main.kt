@@ -1,35 +1,12 @@
-fun main() {
-    println("***VEHICULO NUMERO 1***")
-    val micoche = Vehiculo("Ferrari", "deportivo", 100F, 70F)
-    println(micoche)
-    println(micoche.calcularAutonomia())
-    println(micoche.realizaViaje(300F))
-    println(micoche.realizaViaje(500F))
-    println(micoche.repostar(50F))
-    println(micoche.obtenerInformacion())
-    println(micoche)
-
-    println("***VEHICULO NUMERO 2***")
-    val miauto = Automovil("Ford", "familiar", 75F, 50F, false)
-    println(miauto)
-    println(miauto.calcularAutonomia())
-    println(miauto.realizaViaje(500F))
-    miauto.realizaDerrape()
-    println(miauto.repostar(0F))
-    miauto.cambiarCondicionBritanica(true)
-    println(miauto.obtenerInformacion())
-    println(miauto)
-
-    println("***VEHICULO NUMERO 3***")
-    val mimoto = Motocicleta("Honda", "deportiva", 50F, 45F, 1000)
-    println(mimoto)
-    println(mimoto.calcularAutonomia())
-    println(mimoto.realizaViaje(500F))
-    mimoto.realizaCaballito()
-    println(mimoto.repostar(0F))
-    mimoto.realizaCaballito()
-    println(mimoto.obtenerInformacion())
-    println(mimoto)
-
-
-}
+val aurora = Automovil("Aurora", "Seat", "Panda", 50f, 50f * 0.1f, 0f, true)
+// Coche eléctrico con capacidad de 50 litros, inicia con el 10%
+val boreal = Automovil("Boreal", "BMW", "M8", 80f, 80f * 0.1f, 0f, false)
+// SUV híbrido con capacidad de 80 litros, inicia con el 10%
+val cefiro = Motocicleta("Céfiro", "Derbi", "Motoreta", 15f, 15f * 0.1f, 0f, 500)
+// Motocicleta de gran cilindrada con capacidad de 15 litros, inicia con el 10%
+val dinamo = Automovil("Dinamo", "Cintroen", "Sor", 70f, 70f * 0.1f, 0f, true)
+// Camioneta eléctrica con capacidad de 70 litros, inicia con el 10%
+val eclipse = Automovil("Eclipse", "Renault", "Espacio", 60f, 60f * 0.1f, 0f, false)
+// Coupé deportivo con capacidad de 60 litros, inicia con el 10%
+val fenix = Motocicleta("Fénix", "Honda", "Vital", 20f, 20f * 0.1f, 0f, 250)
+// Motocicleta eléctrica con capacidad de 20 litros, inicia con el 10%
