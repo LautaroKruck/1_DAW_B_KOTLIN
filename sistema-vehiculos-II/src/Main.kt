@@ -10,3 +10,5 @@ val eclipse = Automovil("Eclipse", "Renault", "Espacio", 60f, 60f * 0.1f, 0f, fa
 // Coupé deportivo con capacidad de 60 litros, inicia con el 10%
 val fenix = Motocicleta("Fénix", "Honda", "Vital", 20f, 20f * 0.1f, 0f, 250)
 // Motocicleta eléctrica con capacidad de 20 litros, inicia con el 10%
+
+
