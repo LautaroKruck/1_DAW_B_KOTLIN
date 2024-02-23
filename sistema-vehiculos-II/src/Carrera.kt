@@ -10,6 +10,10 @@ class Carrera (
     var historialAcciones: MutableMap<String, MutableList<String>>,
     var posiciones: MutableList<Pair<String, Int>>
 ){
+    companion object
+    {
+        const val KM_AVANZAR = 20F
+    }
     //Inicia la carrera, estableciendo estadoCarrera a true y comenzando el ciclo de iteraciones donde los vehículos avanzan y realizan acciones.
     fun iniciarCarrera(){
         estadoCarrera = true
@@ -20,24 +24,35 @@ class Carrera (
 
             avanzarVehiculo(vehiculo)
             determinarGanador(vehiculo)
+            actualizarPosiciones()
 
         }
+
+        obtenerResultados()
     }
 
-     //Identificado el vehículo, le hace avanzar una distancia aleatoria entre 10 y 200 km. Si el vehículo necesita repostar, se llama al método repostarVehiculo() antes de que pueda continuar. Este método llama a realizar filigranas.
+    //Identificado el vehículo, le hace avanzar una distancia aleatoria entre 10 y 200 km. Si el vehículo necesita repostar, se llama al método repostarVehiculo() antes de que pueda continuar. Este método llama a realizar filigranas.
     fun avanzarVehiculo(vehiculo: Vehiculo) {
-         val distancia = Random.nextInt(10,200).toFloat()
-         var tramos = distancia / 20
-         val resto = distancia % 20
-         while (tramos > 0) {
-             if (vehiculo.combustibleActual == 0f)
-                 repostarVehiculo(vehiculo, cantidad = vehiculo.capacidadCombustible)
-             vehiculo.realizaViaje(20f)
-             realizarFiligrana(vehiculo)
-         }
-         vehiculo.realizaViaje(resto.toFloat())
-         vehiculo.kilometrosActuales.plus(distancia)
 
+        val distancia = Random.nextInt(10,200).toFloat()
+
+        var tramos = (distancia / KM_AVANZAR).toInt()
+        val resto = distancia % KM_AVANZAR
+
+        avanzarTramo(vehiculo, tramos)
+
+        vehiculo.realizaViaje(resto.toFloat())
+        vehiculo.kilometrosActuales.plus(distancia)
+
+    }
+
+    fun avanzarTramo(vehiculo: Vehiculo,tramos: Int){
+        repeat(tramos){
+            if (vehiculo.combustibleActual == 0f)
+                repostarVehiculo(vehiculo, cantidad = vehiculo.capacidadCombustible)
+            vehiculo.realizaViaje(KM_AVANZAR)
+            realizarFiligrana(vehiculo)
+        }
     }
 
     //Reposta el vehículo seleccionado, incrementando su combustibleActual y registrando la acción en historialAcciones.
