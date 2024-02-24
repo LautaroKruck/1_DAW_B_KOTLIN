@@ -1,14 +1,16 @@
-val aurora = Automovil("Aurora", "Seat", "Panda", 50f, 50f * 0.1f, 0f, true)
-// Coche eléctrico con capacidad de 50 litros, inicia con el 10%
-val boreal = Automovil("Boreal", "BMW", "M8", 80f, 80f * 0.1f, 0f, false)
-// SUV híbrido con capacidad de 80 litros, inicia con el 10%
-val cefiro = Motocicleta("Céfiro", "Derbi", "Motoreta", 15f, 15f * 0.1f, 0f, 500)
-// Motocicleta de gran cilindrada con capacidad de 15 litros, inicia con el 10%
-val dinamo = Automovil("Dinamo", "Cintroen", "Sor", 70f, 70f * 0.1f, 0f, true)
-// Camioneta eléctrica con capacidad de 70 litros, inicia con el 10%
-val eclipse = Automovil("Eclipse", "Renault", "Espacio", 60f, 60f * 0.1f, 0f, false)
-// Coupé deportivo con capacidad de 60 litros, inicia con el 10%
-val fenix = Motocicleta("Fénix", "Honda", "Vital", 20f, 20f * 0.1f, 0f, 250)
-// Motocicleta eléctrica con capacidad de 20 litros, inicia con el 10%
+fun main() {
+    // Inicialización de vehículos con datos aleatorios y máxima cantidad de combustible
+    val vehiculo1 = Automovil("Relámpago", "Mazda", "RX-7", 50f, 50f, 0f, false)
+    val vehiculo2 = Automovil("Trueno", "Toyota", "AE86", 40f, 40f, 0f, true)
+    val vehiculo3 = Motocicleta("Rayo", "Yamaha", "R1", 18f, 18f, 0f, 998)
+    val vehiculo4 = Automovil("Tifón", "Ford", "Mustang", 60f, 60f, 0f, false)
+    val vehiculo5 = Motocicleta("Ciclón", "Ducati", "Panigale V4", 17f, 17f, 0f, 1103)
+    val vehiculo6 = Automovil("Huracán", "Lamborghini", "Huracán", 85f, 85f, 0f, true)
 
+    // Lista de participantes
+    val participantes = listOf(vehiculo1, vehiculo2, vehiculo3, vehiculo4, vehiculo5, vehiculo6)
 
+    // Creación e inicio de la carrera
+    val carrera = Carrera("Desafío Supremo",participantes)
+    carrera.iniciarCarrera()
+}
