@@ -11,6 +11,6 @@ fun main() {
     val participantes = listOf(vehiculo1, vehiculo2, vehiculo3, vehiculo4, vehiculo5, vehiculo6)
 
     // Creación e inicio de la carrera
-    val carrera = Carrera("Desafío Supremo",participantes)
+    val carrera = Carrera("Desafío Supremo", participantes, 1000f)
     carrera.iniciarCarrera()
 }
