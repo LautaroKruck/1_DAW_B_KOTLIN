@@ -21,6 +21,7 @@ class Automovil(
 ) : Vehiculo(nombre, marca, modelo, capacidadCombustible, combustibleActual, kilometrosActuales) {
 
     companion object {
+
         // Indica si los automóviles están configurados para la conducción británica (volante a la derecha).
         var condicionBritanica = false
 
