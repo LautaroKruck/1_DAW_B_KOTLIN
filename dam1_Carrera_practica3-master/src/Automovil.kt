@@ -4,7 +4,7 @@
  * @property esHibrido Indica si el automóvil es eléctrico (true) o no (false).
  * @constructor Crea un automóvil con los parámetros especificados, heredando propiedades y funcionalidades de [Vehiculo].
  */
-class Automovil(
+open class Automovil(
     nombre: String,
     marca: String,
     modelo: String,
@@ -48,7 +48,7 @@ class Automovil(
      *
      * @return El nivel de combustible restante después de realizar el derrape, como [Float].
      */
-    fun realizaDerrape(): Float {
+    open fun realizaDerrape(): Float {
         if (esHibrido) {
             actualizaCombustible(KM_POR_DERRAPE_ELECTRICO)
         }
