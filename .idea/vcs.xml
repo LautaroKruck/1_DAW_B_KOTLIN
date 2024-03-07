@@ -3,6 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Base de datos Empleados" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ProcesosPedidos" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/SistemBiblio" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/SitemNoti" vcs="Git" />
   </component>

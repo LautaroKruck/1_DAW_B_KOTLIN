@@ -4,41 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1232807d-7e40-4c57-bfeb-07c63c05d982" name="Changes" comment="a">
-      <change afterPath="$PROJECT_DIR$/Base de datos Empleados/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base de datos Empleados/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base de datos Empleados/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base de datos Empleados/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base de datos Empleados/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base de datos Empleados/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base de datos Empleados/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base de datos Empleados/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base de datos Empleados/Base de datos Empleados.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base de datos Empleados/src/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SistemBiblio/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SistemBiblio/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SistemBiblio/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SistemBiblio/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SistemBiblio/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SistemBiblio/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SistemBiblio/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SistemBiblio/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SistemBiblio/SistemBiblio.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SistemBiblio/src/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SitemNoti/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SitemNoti/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SitemNoti/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SitemNoti/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SitemNoti/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SitemNoti/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SitemNoti/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SitemNoti/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SitemNoti/SitemNoti.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SitemNoti/src/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dam1_Carrera_practica3-master/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dam1_Carrera_practica3-master/.idea/vcs.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1232807d-7e40-4c57-bfeb-07c63c05d982" name="Changes" comment="ejer sin entrega" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,29 +40,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Downloaded.Files.Path.Enabled": "true",
-    "Kotlin.MainKt.executor": "Run",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "SONARLINT_PRECOMMIT_ANALYSIS": "false",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/usuariot/ReposGit/DAW_B_KOTLIN",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;true&quot;,
+    &quot;Kotlin.MainKt.executor&quot;: &quot;Run&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/usuariot/ReposGit/DAW_B_KOTLIN&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\usuariot\ReposGit\DAW_B_KOTLIN\Kotlin POO I" />
@@ -302,7 +268,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709230556596</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="ejer sin entrega">
+      <option name="closed" value="true" />
+      <created>1709742548327</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1709742548327</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -321,6 +295,7 @@
     <MESSAGE value="ejer escapada" />
     <MESSAGE value="organizacion" />
     <MESSAGE value="a" />
-    <option name="LAST_COMMIT_MESSAGE" value="a" />
+    <MESSAGE value="ejer sin entrega" />
+    <option name="LAST_COMMIT_MESSAGE" value="ejer sin entrega" />
   </component>
 </project>
